@@ -3,6 +3,8 @@
 ![covid19](https://user-images.githubusercontent.com/68801296/89895190-feb70100-dbf8-11ea-8c17-b51139823f25.jpg)
 ![coronavirus](https://user-images.githubusercontent.com/68801296/89895193-024a8800-dbf9-11ea-873c-638e1cec770f.jpg)
 
+In this project we are using covid19 dataset you can download it here :- https://www.kaggle.com/akhilkasare/covid19-chest-xray-detection
+
 Coronavirus
 
 COVID-19 usually presents with fever (85%), cough (70%) and shortness of breath (43%), but abdominal and other symptoms are possible and the disease can be asymptomatic. Overal mortality rate is 2.3% in some series of patients who had a positive test for COVID-19. Since we do not know the number of people who were infected but not tested for the virus, the actual mortality rate of all the people that are infected is probably much lower.
